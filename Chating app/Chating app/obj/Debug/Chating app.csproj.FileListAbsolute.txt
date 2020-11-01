@@ -1,0 +1,21 @@
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\bin\Debug\Chating app.exe.config
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\bin\Debug\Chating app.exe
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\bin\Debug\Chating app.pdb
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\obj\Debug\Chating app.csprojAssemblyReference.cache
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\obj\Debug\Chating_app.Welcome.resources
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\obj\Debug\Chating_app.Properties.Resources.resources
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\obj\Debug\Chating app.csproj.GenerateResource.cache
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\obj\Debug\Chating app.csproj.CoreCompileInputs.cache
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\obj\Debug\Chating app.exe
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\obj\Debug\Chating app.pdb
+F:\Swastik\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\bin\Debug\Chating app.exe.config
+F:\Swastik\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\bin\Debug\Chating app.exe
+F:\Swastik\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\bin\Debug\Chating app.pdb
+F:\Swastik\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\obj\Debug\Chating_app.Main.resources
+F:\Swastik\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\obj\Debug\Chating_app.Properties.Resources.resources
+F:\Swastik\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\obj\Debug\Chating app.csproj.GenerateResource.cache
+F:\Swastik\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\obj\Debug\Chating app.csproj.CoreCompileInputs.cache
+F:\Swastik\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\obj\Debug\Chating app.exe
+F:\Swastik\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\obj\Debug\Chating app.pdb
+F:\Swastik\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\obj\Debug\Chating_app.Start.resources
+F:\Swastik\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\Chating app\Chating app\obj\Debug\Chating app.csprojAssemblyReference.cache
